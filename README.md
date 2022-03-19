@@ -1,4 +1,4 @@
-# ABAQUS_HockeyStick
+# Abaqus Hockey Stick FEA
 ## Texas A&M University
 ### AERO 306 Structural Analysis II
 
